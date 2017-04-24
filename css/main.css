@@ -44,8 +44,20 @@ h1, p{
   background-position: -5px -5px;
   position: relative;
   left: 154px;
-  top: 127px;
+  top: 165px;
 }
 h4{
   color: #F5A829;
+}
+.first-info, .second-info{
+  position: relative;
+}
+.first-info{
+  top: 100px;
+  left: -50px;
+  width: 150%;
+}
+.second-info{
+  left: -90px;
+  top: 150px;
 }
